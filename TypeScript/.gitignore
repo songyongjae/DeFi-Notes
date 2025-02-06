@@ -40,15 +40,3 @@ coverage/
 # Temporary files
 tmp/
 temp/
-
-# Python
-*.pyc
-*.pyo
-*.pyd
-**/__pycache__/
-__pycache__/
-.pytest_cache/
-venv/
-env/
-.DS_Store
-.python-version
